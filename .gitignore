@@ -8,6 +8,5 @@ env/
 __pycache__/
 *.pyc
 
-# Generated images/videos
-generated/
+
 
