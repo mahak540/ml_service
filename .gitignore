@@ -1,12 +1,10 @@
-# Virtual environment
-pp/
-venv/
-env/
-.venv/
-
-# Python cache
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+venv/
+.env
 
-
-
+# Generated files
+generated/
